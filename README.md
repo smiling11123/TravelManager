@@ -13,6 +13,6 @@
 6. 管理员支持对用户管理
 ## 使用部署
 1. 后端端口：8080
-2. 前端端口：6678 npm run dev
+2. 前端端口：6678 npm install npm run dev
 3. Minio端口：9000 桶名travel且设置桶为公开访问
 4. Mysql: 创建数据库travel 运行SQL下init.sql文件创建表和初始数据
