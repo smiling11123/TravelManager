@@ -1,5 +1,12 @@
 # TravelManager
 国家5A景区旅游辅助平台，一个学生javaWeb实训作业
+
+![](.\IMG\main.png)
+
+![](.\IMG\list.png)
+
+![](.\IMG\edit.png)
+
 ## 技术栈
 ### 前端：vue + antdv pro, 前台后台一体，采用动态路由根据权限加载菜单页面。
 ### 后端：Spring boot, Spring mvc, Mybatis-plus, JWT
